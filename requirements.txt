@@ -1,7 +1,7 @@
 filetype==1.2.0
 #gradio==3.50.2
 gradio
-pandas==2.1.0 
+pandas==2.1.4 
 protobuf==3.20.3
 numpy==1.26.4
 onnx==1.17.0
