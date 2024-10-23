@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+filetype
+#gradio==3.50.2
+gradio
+pandas==2.1.0
+protobuf==3.20.3
+numpy==1.26.4
+onnx==1.17.0
+#onnxruntime-gpu==1.17.0
+#onnxruntime==1.17.0
+onnxruntime-gpu
+onnxruntime
+opencv-python
+psutil
+tqdm
+scipy
