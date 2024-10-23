@@ -9,5 +9,5 @@ psutil==5.9.6
 realesrgan==0.3.0
 torch==2.1.2
 tqdm==4.66.1
-pandas==2.1.0 
+pandas==2.1.4
 protobuf==3.20.3
