@@ -2,6 +2,7 @@
 filetype==1.2.0
 #gradio==3.50.2
 gradio
+pandas==2.2.2
 numpy==1.26.4
 onnx==1.17.0
 #onnxruntime-gpu==1.17.0
